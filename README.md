@@ -1,3 +1,5 @@
+USE THE CODE IN SPRING-TOOL_SUITE_4
+
 # resource-allocation-system-project
 
 Here's the updated README.md that includes the H2 database along with its Maven dependency:

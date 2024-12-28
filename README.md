@@ -1,4 +1,4 @@
-USE THE CODE IN SPRING-TOOL_SUITE_4
+USE THE CODE IN SPRING-TOOL-SUITE-4
 
 # resource-allocation-system-project
 

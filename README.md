@@ -1,4 +1,5 @@
 USE THE CODE IN SPRING-TOOL-SUITE-4
+use jdk-17 for best performance
 
 # resource-allocation-system-project
 

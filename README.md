@@ -71,14 +71,14 @@ Backend Setup
    
 spring.datasource.url=jdbc:h2:mem:resource_db
 spring.datasource.driverClassName=org.h2.Driver
-spring.datasource.username=sa
-spring.datasource.password=password
+spring.datasource.username=root
+spring.datasource.password=123456789
 spring.h2.console.enabled=true
 spring.jpa.hibernate.ddl-auto=update
 Run the application in Spring Tool Suite or your preferred IDE.
 
 4. Access H2 Console:
-Once the application is running, open the H2 console at http://localhost:8082/h2-console.
+Once the application is running, open the H2 console at http://localhost:8045/h2-console.
 Use the following details to log in:
 JDBC URL: jdbc:h2:mem:resource_db
 Username: root
